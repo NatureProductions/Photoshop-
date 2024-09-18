@@ -5,20 +5,12 @@ The following project are posts and logos that i made for a number of companies 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-
-
-- <b>JAVA</b> 
-
-- <b>MySQL</b>
-
 
 <h2>Application Used</h2>
 
 
 
--	<b>NetBeans</b> (21H2)
+-	<b>Adobe Photoshop</b> 
 
 
 
@@ -28,9 +20,11 @@ The following project are posts and logos that i made for a number of companies 
 
 <p align=”center”>
 
-This is the login Form: <br/>
+Prospect Dreamer is a company focust on talent shows and fun days, so one day 
+they asked me to make them a post for their events. So i came up with this: <br/>
 
-![image](https://github.com/user-attachments/assets/e6c1cd64-eb08-43f0-90cc-f6789cfbb939)
+![Uploading image.png…]()
+
 
 <br />
 
