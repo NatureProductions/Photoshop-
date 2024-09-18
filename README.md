@@ -22,17 +22,18 @@ The following project are posts and logos that i made for a number of companies 
 
 Prospect Dreamer is a company focust on talent shows and fun days, so one day 
 they asked me to make them a post for their events. So i came up with this: <br/>
+![image](https://github.com/user-attachments/assets/b65e6278-f1fc-463c-97bf-afc50c326207)
 
+
+
+
+<br />
+
+<br />
+
+This is the second post showing guests:  <br/>
 ![Uploading image.png…]()
 
-
-<br />
-
-<br />
-
-This is the registration Form:  <br/>
-
-![image](https://github.com/user-attachments/assets/73f0a12f-0868-441b-bfe3-a348f6db89b5)
 
 <br />
 
