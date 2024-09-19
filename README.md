@@ -1,4 +1,4 @@
-<h1>Photoshop </h1>
+![image](https://github.com/user-attachments/assets/87860bdd-84a1-4aa4-82a9-07ac1692d0fd)<h1>Photoshop </h1>
 
 <h2>Description</h2>
 The following project are posts and logos that i made for a number of companies .
@@ -32,7 +32,9 @@ they asked me to make them a post for their events. So i came up with this: <br/
 <br />
 
 This is the second post showing guests:  <br/>
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4ac605cd-fcff-47a3-94c3-cb0e95ccf7c2)
+
+
 
 
 <br />
@@ -41,7 +43,7 @@ This is the second post showing guests:  <br/>
 
 This is the page after Login page: <br/>
 
-![image](https://github.com/user-attachments/assets/dac83c73-d7fd-4eed-a319-d3bf16966101)
+
 
 <br />
 
