@@ -41,17 +41,20 @@ This is the second post showing guests:  <br/>
 
 <br />
 
-This is the page after Login page: <br/>
+This is a logo of PRELO company. It started last year 2023. So they
+asked for a logo so  i came up with this.<br/>
 
+![image](https://github.com/user-attachments/assets/4dd64a76-364c-4fc8-8c10-11d34142d793)
 
 
 <br />
 
 <br />
 
-If the user is not found in the database this will display :  <br/>
-![image](https://github.com/user-attachments/assets/e87f9330-bc6c-4b37-ae2d-f845fa6ee865)
+They also needed a Business card so made this one for them.  <br/>
+![image](https://github.com/user-attachments/assets/a741ede6-ab96-4caa-a843-5256cbcbc00e)
 
+The are many other posts and logos i made for deferent people and businesses.
 <br />
 
 <br />
