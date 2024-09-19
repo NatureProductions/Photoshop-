@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/87860bdd-84a1-4aa4-82a9-07ac1692d0fd)<h1>Photoshop </h1>
+<h1>Photoshop </h1>
 
 <h2>Description</h2>
 The following project are posts and logos that i made for a number of companies .
@@ -31,7 +31,7 @@ they asked me to make them a post for their events. So i came up with this: <br/
 
 <br />
 
-This is the second post showing guests:  <br/>
+<h2/>This is the second post showing guests: <h2/> <br/>
 ![image](https://github.com/user-attachments/assets/4ac605cd-fcff-47a3-94c3-cb0e95ccf7c2)
 
 
@@ -41,8 +41,8 @@ This is the second post showing guests:  <br/>
 
 <br />
 
-This is a logo of PRELO company. It started last year 2023. So they
-asked for a logo so  i came up with this.<br/>
+<h2>This is a logo of PRELO company. It started last year 2023. So they
+asked for a logo so  i came up with this.<h2/><br/>
 
 ![image](https://github.com/user-attachments/assets/4dd64a76-364c-4fc8-8c10-11d34142d793)
 
@@ -51,10 +51,10 @@ asked for a logo so  i came up with this.<br/>
 
 <br />
 
-They also needed a Business card so made this one for them.  <br/>
+<h2/>They also needed a Business card so made this one for them. <h2/> <br/>
 ![image](https://github.com/user-attachments/assets/a741ede6-ab96-4caa-a843-5256cbcbc00e)
 
-The are many other posts and logos i made for deferent people and businesses.
+<h2>The are many other posts and logos i made for deferent people and businesses.<h2/>
 <br />
 
 <br />
