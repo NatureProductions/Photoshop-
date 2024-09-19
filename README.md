@@ -52,7 +52,8 @@ asked for a logo so  i came up with this.<h2/><br/>
 <br />
 
 <h2/>They also needed a Business card so made this one for them. <h2/> <br/>
-![image](https://github.com/user-attachments/assets/a741ede6-ab96-4caa-a843-5256cbcbc00e)
+![image](https://github.com/user-attachments/assets/14abdc55-9a2f-4066-80b2-6319156449f7)
+
 
 <h2>The are many other posts and logos i made for deferent people and businesses.<h2/>
 <br />
