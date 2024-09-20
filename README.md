@@ -31,7 +31,7 @@ they asked me to make them a post for their events. So i came up with this: <br/
 
 <br />
 
-<h2/>This is the second post showing guests: <h2/> <br/>
+<h2/>This is the second post showing guests: <h2/> <br/>p
 
 ![image](https://github.com/user-attachments/assets/29f15752-972c-4e68-a4f3-f12e41554dc5)
 
