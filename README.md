@@ -32,7 +32,8 @@ they asked me to make them a post for their events. So i came up with this: <br/
 <br />
 
 <h2/>This is the second post showing guests: <h2/> <br/>
-![image](https://github.com/user-attachments/assets/4ac605cd-fcff-47a3-94c3-cb0e95ccf7c2)
+
+![image](https://github.com/user-attachments/assets/29f15752-972c-4e68-a4f3-f12e41554dc5)
 
 
 
@@ -52,8 +53,9 @@ asked for a logo so  i came up with this.<h2/><br/>
 <br />
 
 <h2/>They also needed a Business card so made this one for them. <h2/> <br/>
-![image](https://github.com/user-attachments/assets/14abdc55-9a2f-4066-80b2-6319156449f7)
 
+
+![image](https://github.com/user-attachments/assets/ffe60d5f-96b1-45ea-adb1-43363e5df174)
 
 <h2>The are many other posts and logos i made for deferent people and businesses.<h2/>
 <br />
